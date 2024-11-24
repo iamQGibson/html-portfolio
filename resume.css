@@ -1,0 +1,21 @@
+.Title {
+    text-align: center;
+}
+.Contact {
+    text-align: center;
+}
+.conp {
+    text-align: center;
+}
+.hobbies {
+    text-align: center;
+}
+.Opening {
+    text-align: center;
+}
+.image-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 20px 0;
+}
